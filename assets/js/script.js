@@ -20,7 +20,7 @@ var toUpper = function (x) {
 };
 upperAlphabet = alphabet.map(toUpper);
 
-var get = document.querySelector("#generate");
+var generate = document.querySelector("#generate");
 
 
 function generatePassword() {
@@ -119,7 +119,7 @@ password.push(pickOptions);
     UserInput(ps);
     return ps;
 }
-get.addEventListener("click", function () {
+generate.addEventListener("click", function () {
     ps = generatePassword();
     document.getElementById("password").placeholder = ps;
 });
