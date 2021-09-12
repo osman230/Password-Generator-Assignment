@@ -10,6 +10,7 @@ A generator that give you a random password based on criteria that you confirmed
 
 ## Website
 file:///C:/Users/aisha/Assignments/Password-Generator-Assignment/index.html
+![password generator](https://user-images.githubusercontent.com/88051358/133002135-fb8b0e5b-36ea-45a7-ba65-3cfc14f116f4.PNG)
 
 ## Contribution
 
